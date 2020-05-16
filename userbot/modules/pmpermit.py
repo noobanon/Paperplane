@@ -18,10 +18,10 @@ from userbot.modules.dbhelper import (approval, approve, block_pm, notif_off,
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "`Bleep blop! This is a bot. Don't fret.\n\n`"
+    "`I Think you are not special for my master so why you are here.\n\n`"
     "`My master hasn't approved you to PM.`"
     "`Please wait for my master to look in, he mostly approves PMs.\n\n`"
-    "`As far as I know, he doesn't usually approve retards though.`")
+    "`As far as I know, he doesn't usually approve retards though. for urgent tag my sir in @flixbincrew`")
 # =================================================================
 
 
