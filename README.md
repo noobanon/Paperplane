@@ -2,6 +2,8 @@
 
 ![logo](https://telegra.ph/file/73cf4c62b2c64f981961e.png)
 
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/noobanon/Paperplane"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 ```
 #include <std/disclaimer.h>
 /**
