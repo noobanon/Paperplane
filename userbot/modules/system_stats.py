@@ -140,12 +140,12 @@ async def amireallyalive(alive):
     else:
         db = "Databases functioning normally!"
     await alive.edit("`"
-                     "Paperplane is alive! Your bot is running \n\n"
+                     "Bot is alive! \n\n"
                      f"Telethon version: {version.__version__} \n"
                      f"Python: {python_version()} \n"
-                     f"User: {DEFAULTUSER} \n"
-                     f"Database status: {db}\n"
-                     f"Tagged bot version: v1.0"
+                     f"User: ANON \n"
+                     f"Database status: 69\n"
+                     f"Tagged bot version: v69"
                      "`")
 
 
